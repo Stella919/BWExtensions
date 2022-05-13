@@ -76,6 +76,15 @@
         "match": "torn.com/christmas_town",
         "version": "v2.3.3"
     },
+     {
+        "file": "帮派物品租借使用消息合并及汉化.js",
+        "name": "帮派物品租借使用消息合并及汉化",
+        "author": "Stella[2671581]",
+        "description": "帮派物品租借使用消息合并及汉化，提高了可读性",
+        "detail": "帮派物品租借使用消息合并及汉化",
+        "match": "torn.com/factions.php?step=your*",
+        "version": "v1.0.0"
+    },
     {
         "file": "test.js",
         "name": "测试脚本",
